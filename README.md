@@ -57,8 +57,8 @@ This project can be used in multiple waste based upon the user need best for me.
 
 | Component Name | Purpose | Qty | Unit Price | Total Price in USD | Link |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **Resistors** | To control the current flow | 4 | $0.00 | $0.00 | Self Sourced |
-| **Led** | For the light | 4 | $0.00 | $0.00 | Self Sourced |
+| **Resistors(220 Ohm 0.25W )** | To control the current flow | 4 | $0.0096 | $0.04 | [Link](https://robu.in/product/220-ohm-resistor-0-25w-metal-film-pack-of-100/?gad_source=1&gad_campaignid=17427802703&gbraid=0AAAAADvLFWekTwWN9jC03A8IQT8r3AlY5&gclid=CjwKCAjw6f3RBhApEiwAMaCqWcaO2dly3_fFTVA-yL3R27B3th02OcCqODYx5UqYKDzOy5vnEFLU-hoCv24QAvD_BwE) |
+| **3mm Green DIP LED** | For the light | 4 | $0.016 | $0.6 | [Link](https://robu.in/product/5mm-green-surface-mount-led-pack-of-50/?gad_source=1&gad_campaignid=17427802703&gbraid=0AAAAADvLFWekTwWN9jC03A8IQT8r3AlY5&gclid=CjwKCAjw6f3RBhApEiwAMaCqWRUCdY8CmAQTw0-cabIrtaeX7ebfmDpTQ9LgE_gcqU91_RtSVQTk3hoCW7cQAvD_BwE)|
 | **Blank Keycaps (10)** | To put it in the switches | 1 | $1.59 | $1.59 | [Link](https://stackskb.com/store/numpad-keycaps/) |
 | **Seeed Studio XIAO RP2040** | To control the board | 1 | $6.55 | $6.55 | [Link](https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/) |
 | **PCB Board** | The main board | 1 | $2.00 | $2.00 | [Link](https://jlcpcb.com/) |
@@ -75,11 +75,11 @@ This project can be used in multiple waste based upon the user need best for me.
         <table width="100%" border="0" style="border-collapse: collapse; font-size: 14px; color: #57606a;">
           <tr>
             <td style="padding: 4px 0;">Component Subtotal:</td>
-            <td align="right" style="font-weight: 500; color: #24292f;">$13.32</td>
+            <td align="right" style="font-weight: 500; color: #24292f;">$13.42</td>
           </tr>
           <tr>
             <td style="padding: 4px 0;">Shipping Cost(incl. PCB):</td>
-            <td align="right" style="font-weight: 500; color: #24292f;">$11.1</td>
+            <td align="right" style="font-weight: 500; color: #24292f;">$11</td>
           </tr>
           <tr>
             <td style="padding: 4px 0; padding-bottom: 8px;">Tax:</td>
